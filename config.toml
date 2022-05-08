@@ -17,7 +17,7 @@ copyright = "&copy; 2022 Escott Defence Services Pty Ltd"
 description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
-home = "Home"
+home = ""
 logo = "images/cmlogo.png"
 [params.banner]
 bgImage = ""
