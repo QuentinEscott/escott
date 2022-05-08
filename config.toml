@@ -24,14 +24,14 @@ bgImage = ""
 image = ""
 title = "The SCCM blog of Quentin Escott."
 [params.cta]
-description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
+description = ""
 enable = false
-image = "images/hugo-muscot.svg"
-title = "Get the best hugo templates"
+image = ""
+title = ""
 [params.cta.button]
-enable = true
-label = "Visit Here"
-link = "https://gethugothemes.com/shop/"
+enable = false
+label = ""
+link = ""
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
