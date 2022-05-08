@@ -21,7 +21,7 @@ home = "Home"
 logo = "images/mecm-logo.png"
 [params.banner]
 bgImage = ""
-image = "images/cmlogo.png"
+image = ""
 title = "The SCCM blog of Quentin Escott."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
