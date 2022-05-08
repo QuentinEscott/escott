@@ -4,7 +4,7 @@ categories = ["Hotfix"]
 date = 2020-05-03T03:00:00Z
 description = "I thought it would be apt for my first SCCM post to discuss the first Microsoft KB that the team and I created. It was KB4465865. We were up to date with our SCCM install (Current Branch 1806), so we could get the Microsoft engineering team to make a hotfix for us. It took many hours on the phone. Here is the symptoms section from Microsoft's site."
 image = ""
-title = "First post - KB4465865"
+title = "First post - KB4465865(1)"
 type = "post"
 
 +++
