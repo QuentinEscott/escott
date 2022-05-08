@@ -5,14 +5,6 @@ paginate = "5"
 summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
 title = "The SCCM blog of Quentin Escott"
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 1
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
