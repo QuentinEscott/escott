@@ -20,8 +20,8 @@ google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
 [params.banner]
-bgImage = "images/banner/banner-bg.svg"
-image = "images/banner/illustration.svg"
+bgImage = "images/cmlogo.png"
+image = "images/cmlogo.png"
 title = "The SCCM blog of Quentin Escott."
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
