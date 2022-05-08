@@ -18,7 +18,7 @@ description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/CMLogo.png"
+logo = "static/image/cmlogo.png"
 [params.banner]
 bgImage = ""
 image = ""
