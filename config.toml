@@ -9,7 +9,7 @@ title = "The SCCM blog of Quentin Escott"
 footer = []
 main = []
 [outputs]
-home = ["HTML", "AMP", "RSS", "JSON"]
+home = []
 [params]
 author = "Themefisher"
 contact_form_action = "#"
