@@ -43,4 +43,4 @@ The following scenarios are fixed by this hotfix:
     
   This behavior is mainly cosmetic. It does not involve the complete set of express installation files, only the Express.cab file.
 
-**Note**Installing the hotfix will stop the unconditional download attempts for express CAB files for new updates. After the hotfix is installed, downloading will occur only if express installation file support is enabled for Windows 10 updates.
+**Note** Installing the hotfix will stop the unconditional download attempts for express CAB files for new updates. After the hotfix is installed, downloading will occur only if express installation file support is enabled for Windows 10 updates.
