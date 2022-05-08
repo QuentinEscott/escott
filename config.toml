@@ -4,7 +4,7 @@ languageCode = "en-au"
 paginate = "5"
 summaryLength = "10"
 theme = "github.com/themefisher/northendlab-hugo"
-title = "Hugo Northendlab Forestry starter"
+title = "The SCCM blog of Quentin Escott"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
