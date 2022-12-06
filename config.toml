@@ -1,6 +1,6 @@
 baseURL = "/"
 disqusShortname = ""
-languageCode = "en-us"
+languageCode = "en-au"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-light"
