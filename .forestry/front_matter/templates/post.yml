@@ -24,3 +24,5 @@ fields:
   name: type
   label: type
   default: post
+pages:
+- content/group-policy-requested-site-assignment-code.md
