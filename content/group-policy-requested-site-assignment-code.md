@@ -1,13 +1,14 @@
 +++
 author = "Quentin Escott"
-categories = ["Group Policy", "MECM", "SCCM"]
-date = 2022-12-05T13:00:00Z
+categories = [ "Group Policy", "MECM", "SCCM" ]
+date = 2022-12-05T13:00:00.000Z
 description = ""
 image = ""
 title = "Group Policy Requested Site Assignment Code"
 type = "post"
-
+_template = "post"
 +++
+
 During a MECM migration from one site to another in a different domain, Group Policy was used to set the site code on the old instance. I found that we could not change the site code even after the GPO was disabled. The LocationServices.log pointed me in the right direction. It had a message about the site code being set by Group Policy every time I pressed the "Find Site" button. Even after an uninstall of the MECM client, the site code would not change. After digging around in the registry for the site code, I found these keys in HKLM:\\SOFTWARE\\Microsoft\\SMS\\Mobile Client.   
   
 **GPRequestedSiteAssignmentCode**
